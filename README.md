@@ -1,2 +1,2 @@
 # bookbot
-Bookbot - Read and analyze the files in any book
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
